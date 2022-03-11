@@ -1,3 +1,2 @@
 #!/bin/bashl
-cd 0x00-shell_basics
-ls-l
+ls -l
